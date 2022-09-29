@@ -9,8 +9,6 @@
     "allowSyntheticDefaultImports": true,
     "removeComments": true,
     "sourceMap": true,
-    "baseUrl": ".",
-    "paths": {},
     "lib": ["esnext"]
   },
   "include": ["**/*.ts", "../types/**/*.ts"],
